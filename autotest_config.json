@@ -78,7 +78,7 @@
           "@vitejs/test-css-js-dep-1.0.0.tgz",
           "@vitejs/test-preserve-symlinks-0.0.0.tgz",
           "@vitejs/test-require-pkg-with-module-field-1.0.0.tgz",
-          "solid-js-1.9.11.tgz",
+          "solid-js-1.9.12.tgz",
           "@vitejs/test-environment-react-ssr-0.0.0.tgz",
           "@vitejs/test-multiple-entrypoints-0.0.0.tgz",
           "react-dom-19.2.4.tgz",
